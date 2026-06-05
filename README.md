@@ -141,14 +141,6 @@ Co-authored a 60-page academic research paper applying ML classification models 
 ---
 
 ```
-> ./stats --user Amol257
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amol257&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amol257&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=6)
 
 </div>
 
