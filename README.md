@@ -141,12 +141,6 @@ Co-authored a 60-page academic research paper applying ML classification models 
 ---
 
 ```
-
-</div>
-
----
-
-```
 > ./contact --open
 ```
 
