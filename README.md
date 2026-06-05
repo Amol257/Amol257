@@ -72,7 +72,7 @@ Built an AI-powered real-time national AQI tracker aggregating live data from **
 
 `React 19` `TypeScript` `Python` `Gemini AI` `Recharts` `Leaflet` `Tailwind CSS` `Vite` `REST API`
 
-[![Live](https://img.shields.io/badge/Live_Demo-https://amol257.github.io/india-aqi-dashboard-00FF41?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
+[![Live](https://img.shields.io/badge/Live_Demo-amol257.github.io/india-aqi-dashboard/-00FF41?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
 [![Repo](https://img.shields.io/badge/Source-Amol257/india--aqi--dashboard-gray?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/Amol257/india-aqi-dashboard)
 
 ---
