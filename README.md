@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amol257.github.io-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://amol257.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amol-singhal257/)
-[![AQI Dashboard](https://img.shields.io/badge/Live_Project-India_AQI_Dashboard-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://india-aqi-dashboard.vercel.app)
+[![AQI Dashboard](https://img.shields.io/badge/Live_Project-India_AQI_Dashboard-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
 
 </div>
 
@@ -72,7 +72,7 @@ Built an AI-powered real-time national AQI tracker aggregating live data from **
 
 `React 19` `TypeScript` `Python` `Gemini AI` `Recharts` `Leaflet` `Tailwind CSS` `Vite` `REST API`
 
-[![Live](https://img.shields.io/badge/Live_Demo-india--aqi--dashboard.vercel.app-00FF41?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://india-aqi-dashboard.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-india--aqi--dashboard.vercel.app-00FF41?style=flat-square&logo=vercel&logoColor=black&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
 [![Repo](https://img.shields.io/badge/Source-Amol257/india--aqi--dashboard-gray?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/Amol257/india-aqi-dashboard)
 
 ---
