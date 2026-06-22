@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-amol257.github.io-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://amol257.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amol-singhal257/)
 [![AQI Dashboard](https://img.shields.io/badge/Live_Project-India_AQI_Dashboard-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
+[![Fundscope](https://img.shields.io/badge/Live_Project-Fundscope-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://amol257.github.io/fundscope/)
 
 </div>
 
