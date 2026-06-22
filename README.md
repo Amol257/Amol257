@@ -1,10 +1,11 @@
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════════╗
-║        AMOL SINGHAL  //  DATA ANALYST  //  DELHI NCR            ║
+║             AMOL SINGHAL  //  DATA ANALYST  //  DELHI NCR      ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
+</pre>
+
 </div>
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Power+BI+%7C+DAX+%7C+SQL+%7C+Python;Turning+messy+data+into+clear+decisions;BI+Developer+%7C+Dashboard+Builder;Freshly+graduating+Aug+2026)](https://git.io/typing-svg)
