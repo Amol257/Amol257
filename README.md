@@ -6,8 +6,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
-</div>
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Power+BI+%7C+DAX+%7C+SQL+%7C+Python;Turning+messy+data+into+clear+decisions;BI+Developer+%7C+Dashboard+Builder;Freshly+graduating+Aug+2026)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amol257.github.io-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://amol257.github.io)
