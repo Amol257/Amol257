@@ -21,9 +21,9 @@
 > whoami
 ```
 
-**B.Tech Computer Science (Data Science)** at ABESIT, Ghaziabad — graduating August 2026.
+**B.Tech Computer Science (Data Science)** at ABESIT, Ghaziabad, graduating August 2026.
 
-I build dashboards that answer real business questions. At **NCRTC**, I built KPI infrastructure for India's PM-eBus Sewa programme, tracking real-time fleet metrics across 6,000+ buses and cutting manual reporting time by **20–25%**. I also shipped a live national AQI tracker aggregating data from **511 monitoring stations** across 28 Indian states.
+I build dashboards that answer real business questions. At **NCRTC**, I built KPI infrastructure for India's PM-eBus Sewa programme, tracking real-time fleet metrics across 6,000+ buses and cutting manual reporting time by **20-25%**. I also shipped a live national AQI tracker aggregating data from **511 monitoring stations** across 28 Indian states.
 
 Data is only useful when it changes a decision. I try to build the kind of visuals that actually do that.
 
@@ -35,16 +35,16 @@ Currently open to **Data Analyst** and **BI Analyst** roles in Delhi NCR.
 > ls ./experience
 ```
 
-### NCRTC — IT Intern, Data Analytics `Sep 2025 – Nov 2025`
+### NCRTC | IT Intern, Data Analytics `Sep 2025 – Nov 2025`
 > **Problem:** Ministry-level KPI reporting for 6,000+ buses across PM-eBus Sewa was slow and manually intensive.
 
-Built Power BI dashboards with advanced DAX measures to monitor real-time operational metrics across the national fleet programme. Automated Excel pipelines via macros and Power Query, and optimised SQL queries to cut dashboard generation time by **20–25%**. Worked directly with Sr. GM/IT to redesign report layouts for stakeholder visibility.
+Built Power BI dashboards with advanced DAX measures to monitor real-time operational metrics across the national fleet programme. Automated Excel pipelines via macros and Power Query, and optimised SQL queries to cut dashboard generation time by **20-25%**. Worked directly with Sr. GM/IT to redesign report layouts for stakeholder visibility.
 
 `Power BI` `DAX` `SQL` `Power Query` `Excel` `Data Modeling`
 
 ---
 
-### Internship Studio — Web Design Intern `Sep 2024 – Oct 2024`
+### Internship Studio | Web Design Intern `Sep 2024 – Oct 2024`
 > **Problem:** Checkout drop-off was hurting online sales but no data existed to explain why.
 
 Applied Excel pivot table analysis to user flow data to identify drop-off points, then grounded layout and checkout redesign decisions directly in those findings. Delivered a fully responsive eCommerce site with high-fidelity mockups in Adobe Photoshop.
@@ -53,7 +53,7 @@ Applied Excel pivot table analysis to user flow data to identify drop-off points
 
 ---
 
-### Zidio — UI/UX Intern `Apr 2024 – Jul 2024`
+### Zidio | UI/UX Intern `Apr 2024 – Jul 2024`
 > **Problem:** A weather analysis app had poor forecast comprehension, making data hard to act on.
 
 Designed a data-driven weather app in Figma that improved user comprehension of forecast data by **40%** in usability testing. Built a reusable WCAG-compliant component library that cut developer handoff time and maintained consistency across all user touchpoints.
@@ -65,6 +65,18 @@ Designed a data-driven weather app in Figma that improved user comprehension of 
 ```
 > ls ./projects
 ```
+
+### FundScope | Mutual Fund Analytics Platform `2026`
+> **Problem:** With 5,800+ SEBI-registered mutual funds, retail investors had no objective, data-driven tool to screen, score, and compare funds beyond distributor-recommended shortlists.
+
+Built a full-stack mutual fund analytics platform covering all **5,800+ SEBI-registered funds**, with composite scoring across CAGR, Sharpe Ratio, and alpha. Engineered a Python data pipeline consuming the AMFI API into SQLite, feeding a **Next.js 15** + TypeScript frontend with an interactive fund screener, return comparison charts via Recharts, and spring-physics animations via Framer Motion.
+
+`Next.js 15` `TypeScript` `Python` `SQLite` `AMFI API` `Recharts` `Framer Motion` `Tailwind CSS`
+
+[![Live](https://img.shields.io/badge/Live_Demo-amol257.github.io%2Ffundscope-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://amol257.github.io/fundscope/)
+[![Repo](https://img.shields.io/badge/Source-Amol257/fundscope-gray?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/Amol257/fundscope)
+
+---
 
 ### India AQI Dashboard `2026`
 > **Problem:** No unified public platform tracked air quality health risk across Indian cities with CPCB-standard AQI calculations.
@@ -87,7 +99,7 @@ Built and deployed interactive Power BI dashboards on national government infras
 
 ---
 
-### ESG Adoption in SMEs — ML Research `Final Year Project`
+### ESG Adoption in SMEs: ML Research `Final Year Project`
 > **Problem:** SMEs lack structured frameworks to assess ESG readiness or act on adoption signals.
 
 Co-authored a 60-page academic research paper applying ML classification models to predict ESG adoption likelihood in SMEs. Covered feature engineering, model comparison across Random Forest, XGBoost, and Logistic Regression, and policy recommendation framing. Supervised by Prof. Raj Kishor Verma.
@@ -132,11 +144,11 @@ Co-authored a 60-page academic research paper applying ML classification models 
 > cat ./certifications.txt
 ```
 
-- Generative AI — Google Cloud / Hack2Skill (May 2025)
-- Graphic Designing — EDUCBA (May 2025)
-- Cloud Computing — IBM / PBEL Virtual Internship (Aug 2025)
-- Excel for Data Analysis — Udemy (2025)
-- Digital Skills: UX — FutureLearn
+- Generative AI | Google Cloud / Hack2Skill (May 2025)
+- Graphic Designing | EDUCBA (May 2025)
+- Cloud Computing | IBM / PBEL Virtual Internship (Aug 2025)
+- Excel for Data Analysis | Udemy (2025)
+- Digital Skills: UX | FutureLearn
 - Google Data Analytics Professional Certificate *(in progress, Coursera)*
 
 ---
@@ -149,7 +161,7 @@ Co-authored a 60-page academic research paper applying ML classification models 
 
 Open to **Data Analyst**, **BI Analyst**, and **Business Analyst** roles in Delhi NCR.
 
-If you are hiring, want to collaborate, or just want to talk data — reach out.
+If you are hiring, want to collaborate, or just want to talk data, reach out.
 
 [![Email](https://img.shields.io/badge/amol.singhal25@gmail.com-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:amol.singhal25@gmail.com)
 [![Portfolio](https://img.shields.io/badge/amol257.github.io-Visit_Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117)](https://amol257.github.io)
