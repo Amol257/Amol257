@@ -21,7 +21,7 @@
 > whoami
 ```
 
-**B.Tech Computer Science (Data Science)** at ABESIT, Ghaziabad, graduating August 2026.
+**B.Tech Computer Science (Data Science)** at ABESIT, Ghaziabad, August 2026.
 
 I build dashboards that answer real business questions. At **NCRTC**, I built KPI infrastructure for India's PM-eBus Sewa programme, tracking real-time fleet metrics across 6,000+ buses and cutting manual reporting time by **20-25%**. I also shipped a live national AQI tracker aggregating data from **511 monitoring stations** across 28 Indian states.
 
