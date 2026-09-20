@@ -116,6 +116,10 @@ Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** rol
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,r,mysql,ts,react,nextjs,git,figma,vscode,vercel&theme=dark" alt="Skill icons" />
+
 </div>
 
 **Core competencies:** MIS Reporting & Automation · KPI Dashboards · Data Storytelling · Trend Analysis · Ad-hoc Analysis · EDA · Data Cleaning & Transformation · Statistical Analysis · Advanced Excel (VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables) · Business Requirements Analysis · Stakeholder Management · Cross-functional Collaboration · Process Improvement
@@ -128,6 +132,16 @@ Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** rol
 
 <img height="165" alt="GitHub streak"
 src="https://streak-stats.demolab.com?user=Amol257&theme=dark&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&hide_border=true" />
+
+</div>
+
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
+
+## `> ./metrics --render`
+
+<div align="center">
+
+<img width="100%" alt="Animated GitHub metrics: language breakdown, isometric contribution calendar, achievements, and coding habits" src="./github-metrics.svg" />
 
 </div>
 
