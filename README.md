@@ -126,12 +126,21 @@ Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** rol
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amol257&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol257&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+<img height="165" alt="GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=Amol257&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&cache_seconds=86400" />
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Amol257&theme=dark&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&hide_border=true" />
+<img height="165" alt="Top languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol257&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&cache_seconds=86400" />
 
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amol257&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" />
+<br/><br/>
+
+<img height="165" alt="GitHub streak"
+src="https://streak-stats.demolab.com?user=Amol257&theme=dark&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" alt="Contribution activity graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Amol257&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" />
 
 </div>
 
