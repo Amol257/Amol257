@@ -1,26 +1,30 @@
+<!-- ═══════════════════ WAVING HEADER ═══════════════════ -->
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════════════════════╗
-║             AMOL SINGHAL  //  DATA ANALYST  //  DELHI NCR        ║
-╚══════════════════════════════════════════════════════════════════╝
-</pre>
+<img width="100%" alt="Amol Singhal banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0B3D2E,100:00FF41&height=240&section=header&text=Amol%20Singhal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Business%20Analyst&descSize=20&descAlignY=58" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Power+BI+%7C+DAX+%7C+SQL+%7C+Python;MIS+Dashboards+%26+KPI+Reporting;Turning+messy+data+into+clear+decisions;B.Tech+CSE+%28Data+Science%29+2026+%7C+MBA+in+Business+Analytics)](https://git.io/typing-svg)
+<!-- ═══════════════════ TYPING TEXT ═══════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Power+BI+%7C+DAX+%7C+SQL+%7C+Python;MIS+Dashboards+%26+KPI+Reporting;Turning+messy+data+into+clear+decisions;B.Tech+CSE+%28Data+Science%29+2026+%7C+MBA+in+Business+Analytics" />
+</a>
 
+<br/>
+
+<!-- ═══════════════════ BUTTONS ═══════════════════ -->
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-00FF41?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=0D1117)](https://github.com/Amol257/Amol257/blob/main/Amol_Singhal_Resume.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-amol257.github.io-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://amol257.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amol_Singhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amol-singhal257/)
+<br/>
 [![AQI Dashboard](https://img.shields.io/badge/Live_Project-India_AQI_Dashboard-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
 [![Fundscope](https://img.shields.io/badge/Live_Project-Fundscope-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://amol257.github.io/fundscope/)
 
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Amol257&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" />
+
 </div>
 
----
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
 
-```
-> whoami
-```
+## `> whoami`
 
 **B.Tech Computer Science (Data Science)** graduate from ABESIT, Ghaziabad (2026), now pursuing an **MBA in Business Analytics** at NMIMS CDOE.
 
@@ -30,11 +34,13 @@ Data is only useful when it changes a decision. I try to build the kind of visua
 
 Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** roles in Delhi NCR.
 
----
+<div align="center">
+  <img width="100%" alt="Key metrics: 4 dashboards, 20-25% faster, 511 stations, 32 funds scored" src="./assets/kpis.svg" />
+</div>
 
-```
-> ls ./experience
-```
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
+
+## `> ls ./experience`
 
 ### NCRTC | IT Intern, Data Analytics `Sep 2025 – Nov 2025`
 > **Problem:** Ministry-level KPI reporting for the PM-eBus Sewa national fleet programme was slow and manually intensive.
@@ -47,11 +53,9 @@ Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** rol
 
 `Power BI` `DAX` `SQL` `Power Query` `Excel` `VBA Macros`
 
----
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
 
-```
-> ls ./projects
-```
+## `> ls ./projects`
 
 ### FundScope | Full-Stack Mutual Fund Analytics Platform `2026`
 > **Problem:** Retail investors had no objective, data-driven tool to screen, score, and compare mutual funds beyond distributor-recommended shortlists.
@@ -81,11 +85,9 @@ Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** rol
 [![Live](https://img.shields.io/badge/Live_Demo-amol257.github.io%2Findia--aqi--dashboard-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://amol257.github.io/india-aqi-dashboard/)
 [![Repo](https://img.shields.io/badge/Source-Amol257/india--aqi--dashboard-gray?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/Amol257/india-aqi-dashboard)
 
----
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
 
-```
-> cat ./skills.txt
-```
+## `> cat ./skills.txt`
 
 <div align="center">
 
@@ -118,30 +120,48 @@ Currently open to **Data Analyst**, **BI Analyst**, and **Business Analyst** rol
 
 **Core competencies:** MIS Reporting & Automation · KPI Dashboards · Data Storytelling · Trend Analysis · Ad-hoc Analysis · EDA · Data Cleaning & Transformation · Statistical Analysis · Advanced Excel (VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables) · Business Requirements Analysis · Stakeholder Management · Cross-functional Collaboration · Process Improvement
 
----
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
 
-```
-> cat ./education.txt
-```
+## `> git log --stats`
+
+<div align="center">
+
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amol257&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol257&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Amol257&theme=dark&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&hide_border=true" />
+
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amol257&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" />
+
+</div>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amol257/Amol257/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amol257/Amol257/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Amol257/Amol257/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
+
+## `> cat ./education.txt`
 
 - **MBA, Business Analytics** | NMIMS CDOE, Mumbai | 2026 – Present
 - **B.Tech, Computer Science (Data Science)** | ABESIT, Ghaziabad (AKTU) | 2022 – 2026
 
----
-
-```
-> cat ./certifications.txt
-```
+## `> cat ./certifications.txt`
 
 - Generative AI | Hack2Skill in collaboration with Google Cloud (May 2025)
 - Cloud Computing | IBM / PBEL Virtual Internship (Aug 2025)
 - Excel for Data Analysis | Udemy (2025)
 
----
+<img width="100%" height="10" alt="" src="./assets/divider.svg" />
 
-```
-> ./contact --open
-```
+## `> ./contact --open`
 
 <div align="center">
 
@@ -151,11 +171,15 @@ If you are hiring, want to collaborate, or just want to talk data, reach out.
 
 [![Resume](https://img.shields.io/badge/Resume-Open_PDF-00FF41?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=0D1117)](https://github.com/Amol257/Amol257/blob/main/Amol_Singhal_Resume.pdf)
 [![Email](https://img.shields.io/badge/amol.singhal25@gmail.com-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:amol.singhal25@gmail.com)
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amol_Singhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amol-singhal257/)
 [![Portfolio](https://img.shields.io/badge/amol257.github.io-Visit_Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117)](https://amol257.github.io)
 
-```
-// open to work · Delhi NCR
-```
+<a href="https://git.io/typing-svg">
+  <img alt="Open to work" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=420&height=30&lines=%2F%2F+open+to+work+%C2%B7+Delhi+NCR;%2F%2F+let%27s+turn+data+into+decisions" />
+</a>
 
 </div>
+
+<!-- ═══════════════════ WAVING FOOTER ═══════════════════ -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0B3D2E,100:00FF41&height=120&section=footer" />
